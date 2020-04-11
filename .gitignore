@@ -45,3 +45,5 @@ geckodriver.log
 
 mlruns/
 covid19-repo-recommender/
+notes
+web_app/covid19-rec-web

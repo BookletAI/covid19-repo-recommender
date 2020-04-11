@@ -1,0 +1,7 @@
+fastapi[all]
+nltk
+pandas
+boto3
+sklearn
+cloudpickle
+mlflow
